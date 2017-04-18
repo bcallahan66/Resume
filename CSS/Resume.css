@@ -1,0 +1,68 @@
+body {
+    background-color: #efefef;
+}
+
+a:link {
+    color: #009;
+}
+
+a:visited {
+    color: #900;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.content {
+    background-color: #fff;
+}
+
+.ralign {
+    text-align: right;
+}
+
+.header {
+    height: .5em;
+}
+
+.exp_company {
+    font-style: italic;
+}
+
+.exp_location {
+}
+
+.exp_dates {
+}
+
+.exp_title {
+}
+
+.exp_tech {
+}
+
+.exp_space {
+}
+
+.accomplishments {
+}
+
+.edu_degree {
+}
+
+.edu_school {
+}
+
+.edu_location {
+}
+
+.edu_dates {
+}
+
+.edu_space {
+}
+
+.footer {
+    height: 1em;
+}
